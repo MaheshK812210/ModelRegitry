@@ -1,4 +1,4 @@
 version: 0.2.0.dev0
 semantic_model:
-- name: test_model
+- name: test_model_v2
   datasets: []
